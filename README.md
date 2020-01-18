@@ -1,5 +1,5 @@
 ![channels4_banner|690x114](https://i.ibb.co/CHMD8y6/channels4-banner.jpg) 
-# Inferno Collection: Vehicle Whitelist
+# Inferno Collection: Keys
 [![Build Status](https://travis-ci.com/inferno-collection/Keys.svg?branch=development)](https://travis-ci.com/inferno-collection/Keys)
 
 __Public Alpha Version 1.0__
